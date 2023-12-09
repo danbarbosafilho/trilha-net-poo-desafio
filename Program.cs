@@ -2,7 +2,7 @@
 
 // TODO: Realizar os testes com as classes Nokia e Iphone
 Console.WriteLine("Smartphone Nokia:");
-Smartphone nokia = new Nokia(numero: "12345", modelo: "Modelo 1", imei: "111111", memoria: 64);
+Smartphone nokia = new Nokia(numero: "12345", modelo: "Modelo 1", imei: "11111", memoria: 64);
 nokia.Ligar();
 nokia.InstalarAplicativo("App WhatsApp");
 
